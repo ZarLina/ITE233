@@ -1,0 +1,10 @@
+c:\users\angelina zaretskaya\source\repos\binaryConvert\binaryConvert\bin\Debug\binaryConvert.exe.config
+c:\users\angelina zaretskaya\source\repos\binaryConvert\binaryConvert\bin\Debug\binaryConvert.exe
+c:\users\angelina zaretskaya\source\repos\binaryConvert\binaryConvert\bin\Debug\binaryConvert.pdb
+c:\users\angelina zaretskaya\source\repos\binaryConvert\binaryConvert\obj\Debug\binaryConvert.csprojResolveAssemblyReference.cache
+c:\users\angelina zaretskaya\source\repos\binaryConvert\binaryConvert\obj\Debug\binaryConvert.Form1.resources
+c:\users\angelina zaretskaya\source\repos\binaryConvert\binaryConvert\obj\Debug\binaryConvert.Properties.Resources.resources
+c:\users\angelina zaretskaya\source\repos\binaryConvert\binaryConvert\obj\Debug\binaryConvert.csproj.GenerateResource.Cache
+c:\users\angelina zaretskaya\source\repos\binaryConvert\binaryConvert\obj\Debug\binaryConvert.csproj.CoreCompileInputs.cache
+c:\users\angelina zaretskaya\source\repos\binaryConvert\binaryConvert\obj\Debug\binaryConvert.exe
+c:\users\angelina zaretskaya\source\repos\binaryConvert\binaryConvert\obj\Debug\binaryConvert.pdb
