@@ -1,0 +1,10 @@
+c:\users\angelina zaretskaya\source\repos\Calculator_info\Calculator_info\bin\Debug\Calculator_info.exe.config
+c:\users\angelina zaretskaya\source\repos\Calculator_info\Calculator_info\bin\Debug\Calculator_info.exe
+c:\users\angelina zaretskaya\source\repos\Calculator_info\Calculator_info\bin\Debug\Calculator_info.pdb
+c:\users\angelina zaretskaya\source\repos\Calculator_info\Calculator_info\obj\Debug\Calculator_info.csprojResolveAssemblyReference.cache
+c:\users\angelina zaretskaya\source\repos\Calculator_info\Calculator_info\obj\Debug\Calculator_info.Form1.resources
+c:\users\angelina zaretskaya\source\repos\Calculator_info\Calculator_info\obj\Debug\Calculator_info.Properties.Resources.resources
+c:\users\angelina zaretskaya\source\repos\Calculator_info\Calculator_info\obj\Debug\Calculator_info.csproj.GenerateResource.Cache
+c:\users\angelina zaretskaya\source\repos\Calculator_info\Calculator_info\obj\Debug\Calculator_info.csproj.CoreCompileInputs.cache
+c:\users\angelina zaretskaya\source\repos\Calculator_info\Calculator_info\obj\Debug\Calculator_info.exe
+c:\users\angelina zaretskaya\source\repos\Calculator_info\Calculator_info\obj\Debug\Calculator_info.pdb
